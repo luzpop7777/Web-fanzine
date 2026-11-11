@@ -1,17 +1,47 @@
-<!DOCTYPE html
+<!DOCTYPE html>
 <html lang="es">
-    <head>
-         <title>Fanzine</title>
-         <link rel="stylesheet" href="estilo.css"/>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Portada NYC Fanzine</title>
+  <link rel="stylesheet" href="estilo.css">
+</head>
+<body data-page="portada" data-next="espacio1.html">
+  <header>
+    <a class="logo" href="index.html">NYC FANZINE</a>
+    <nav>
+      <a href="index.html" class="activo">Inicio</a>
+      <a href="espacio1.html">1</a> <a href="espacio2.html">2</a>
+      <a href="espacio3.html">3</a> <a href="espacio4.html">4</a>
+      <a href="espacio5.html">5</a> <a href="espacio6.html">6</a>
+    </nav>
+    <button id="boton-sonido" class="btn" aria-pressed="false" title="Sonido ambiente">🔊</button>
+    <audio id="ambiente" src="audio/ambiente.wav" loop></audio>
+  </header>
 
-    </head>
-    <body>
-        <h1></h1>
+  <main>
+    <section class="hero">
+      <img src="img/portada.svg" alt="Portada del fanzine sobre Nueva York">
+      <h1>NYC FANZINE</h1>
+      <p class="lead">Un fanzine web sobre barrios, series, política y eventos de Nueva York</p>
+    </section>
+    <section>
+      <h2>Qué espacios podemos encontrar acá?</h2>
+      <ol class="indice">
+        <li><a href="espacio1.html">Espacio 1 — Barrios</a></li>
+        <li><a href="espacio2.html">Espacio 2 — Mapa</a></li>
+        <li><a href="espacio3.html">Espacio 3 — Series</a></li>
+        <li><a href="espacio4.html">Espacio 4 — Mamdani</a></li>
+        <li><a href="espacio5.html">Espacio 5 — Eventos</a></li>
+      </ol>
+    </section>
+  </main>
 
-        <div>
+  <footer class="pager">
+    <span></span>
+    <a class="next" href="espacio1.html">Siguiente →</a>
+  </footer>
 
-        </div>
-         <a href="espacio1.html">Pasamos al próximo</a>
-
-    </body>
+  <script src="js/script.js"></script>
+</body>
 </html>

@@ -1,4 +1,7 @@
-# Web-fanzine
-Fanzine digital hecho por mí!!! 
-- Sé que tengo que poner una librería, un API, documentar el proceso, usar imágenes, sonidos, gifs e hipervínculos
-- Todavía no sé de qué hacer mi fanzine, tal vez de música o de alguna serie? Modern Family? Sex and the City? Silvio Rodríguez?
+- Me tocó mudarme a VS code, github hizo que se me llenara el 100% del espacio sin haberlo mirado
+- Decidí que mi tema será New York, pues desde los midterms me siento muy patriótica porque mi voto y el de mi familia hizo que Texas fuera AZULLLL
+- Y este blue wave no hubiera sido posible sin la leyenda, Mamdani. Mi fanzine va a ser sobre esta hermosa ciudad, su alcalde, su impacto cultural, sus barrios, lo que le pueda meter
+- Usé una IA ayer pa ayudarme, lo siento
+- Borré algunas cosas que me sugirió 
+- Ya index creo que hecho
+- Todavía no he hecho commit pero ya le hago
