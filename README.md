@@ -13,3 +13,9 @@
 - no funciona el sonido, no sé qué hacer
 - intentando hacer lo del iframe para poner un mapa de central park en el espacio2, voy a revisar a ver si sí funciona
 - Nop, no me funciona
+- Pequé y consulté una ia a ver qué estoy haciendo mal. Me dijo que básicamente todo. Empecé a hacer vainas en el script.js que no había abierto antes como para lograr hacer lo del mapa. ya le voy a agregar lo del boton de sonido
+- El .js se me complica mucho, o sea demasiado. he tenido que pecar
+- También estoy usando vainas que usé en mi entrega pasada, robando todooo
+- CHIKOS LO LOGRÉ, SE VE EL MAPA LETSGOOOO Y TE REFIERE A OTRA PÁGINA PARA VER COMO EN GOOGLE MAPS
+- El sonido ambiente sigue sin funcionar, eso que ya tiene su propia carpeta
+- Estoy entrando en crisis
