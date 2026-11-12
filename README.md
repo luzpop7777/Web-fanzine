@@ -10,3 +10,6 @@
 - Logré poner las imágenes, pero por alguna razón el golive no funciona bien
 - Empezando el espacio 2, ya le puse una librería de java, voy a ver cómo funciona, la verdad no sé cómo va a funcionar
 - Busqué en un banco de sonidos algo que sonara muy ciudad y ya, lo logré, tengo que ver si funciona
+- no funciona el sonido, no sé qué hacer
+- intentando hacer lo del iframe para poner un mapa de central park en el espacio2, voy a revisar a ver si sí funciona
+- Nop, no me funciona
