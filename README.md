@@ -5,3 +5,7 @@
 - Borré algunas cosas que me sugirió 
 - Ya index creo que hecho
 - Todavía no he hecho commit pero ya le hago
+- Hubo un mega lío para lograr hacer commit, pero al fin lo logré (junto Diegoat)
+- Estoy intentando agregar imágenes funcionales de cada barrio pero no me está funcionando
+- Logré poner las imágenes, pero por alguna razón el golive no funciona bien
+- Empezando el espacio 2, ya le puse una librería de java, voy a ver cómo funciona, la verdad no sé cómo va a funcionar
