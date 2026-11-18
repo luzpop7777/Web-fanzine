@@ -24,4 +24,8 @@
 - Estoy confundida, hay muchos archivos y no sé qué hacer
 - Voy a adelantar el espacio3
 - Se me olvidó update desde ese día, upsi
-- Se me
+- Se me había olvidado el css, la re cagué pero ya estoy haciendo eso. No consigo que el fondo de pantalla cambie de color
+- Por alguna razón, no me funciona ningún repositorio porque dice que soy un peligro
+- Haciendo algunos arreglitos por ahí
+- Ya cambió de color el fondo, se ve re lobo pero kinda love that
+
