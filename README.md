@@ -23,3 +23,5 @@
 - De la nada tengo todos los espacios repetidos???
 - Estoy confundida, hay muchos archivos y no sé qué hacer
 - Voy a adelantar el espacio3
+- Se me olvidó update desde ese día, upsi
+- Se me
