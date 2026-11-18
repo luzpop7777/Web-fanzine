@@ -7,7 +7,7 @@ body {
     animation-iteration-count: infinite;
 
 }
-.contenedor-portada {
+.contenedor-espacio1 {
     position: relative;
     width: min(800px, 90%);
     min-height: 100px;
@@ -31,8 +31,6 @@ h1 {
 p {
     font-family: 'Courier New', Courier, monospace;
     line-height: 1.6;
-
-
 }
 
 .subparrafo {

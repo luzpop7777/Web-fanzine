@@ -37,4 +37,7 @@
 - Pedí ayuda a copilot porque realmente no estaba funcionando el contenedor, Todo estaba bien en teoría pero no me funcionaba pero ahora funciona
 - Probando diferentes tipos de fuentes y colores para el contenedor 
 - Busqué taxi yellow y de ese color hice el contenedor
-- Odiando cómo se ve en lo que no es el index, voy a hacerse su respecitvo css
+- Odiando cómo se ve en lo que no es el index, voy a hacerse su respectivo css
+- Ya hice un css para espacio 1 y espacio 2, tienen lo de los colores cambiantes re camp
+- Pedí a copilot que me explicara cómo arreglar mi problema con los contenedores y es que no puse el div antes y después del h1. Con razón 
+- Voy a volver a modificar el tamaño de fuente y de contenedor del espacio1
