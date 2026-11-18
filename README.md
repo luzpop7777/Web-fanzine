@@ -31,4 +31,10 @@
 - Empezando espacio4, el de mamdani
 - Pensando en la planimetría
 - Hice un fondo con una colección de fotos de nueva york sacadas de Pinterest que puse en un collage en canva y ojalá se vea re cute
-
+- tengo que como centrar la imagen, hacer un contenedor y voy a inspirarme en lo que hizo Polito
+- Vi el código de polito y vi en dónde pone sus contenedores, lo puse en el mío
+- Problemas con el golive
+- Pedí ayuda a copilot porque realmente no estaba funcionando el contenedor, Todo estaba bien en teoría pero no me funcionaba pero ahora funciona
+- Probando diferentes tipos de fuentes y colores para el contenedor 
+- Busqué taxi yellow y de ese color hice el contenedor
+- Odiando cómo se ve en lo que no es el index, voy a hacerse su respecitvo css
