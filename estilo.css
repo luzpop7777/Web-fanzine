@@ -6,7 +6,30 @@ body {
     animation-name: cambioColor;
     animation-duration:  4s;
     animation-iteration-count: infinite;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2.5em;
+    text-align: center;
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 1.6;
 
 
+}
+
+.subparrafo {
+    font-size: 1.2em;
+}
+
+
+@keyframes cambioColor {
+    0% {background-color: rgb(248, 250, 215);}
+    25% {background-color: rgb(167, 255, 193);}
+    50% {background-color: aqua;}
+    75% {background-color: rgb(86, 156, 255);}
 
 }
