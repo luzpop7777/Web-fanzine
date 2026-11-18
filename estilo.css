@@ -1,0 +1,12 @@
+body {
+   background-color: rgb(0, 39, 93);
+    color:rgb(252, 252, 252);
+    color:rgb(254, 11, 11)
+    
+    animation-name: cambioColor;
+    animation-duration:  4s;
+    animation-iteration-count: infinite;
+
+
+
+}
