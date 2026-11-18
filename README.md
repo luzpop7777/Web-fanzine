@@ -28,4 +28,7 @@
 - Por alguna razón, no me funciona ningún repositorio porque dice que soy un peligro
 - Haciendo algunos arreglitos por ahí
 - Ya cambió de color el fondo, se ve re lobo pero kinda love that
+- Empezando espacio4, el de mamdani
+- Pensando en la planimetría
+- Hice un fondo con una colección de fotos de nueva york sacadas de Pinterest que puse en un collage en canva y ojalá se vea re cute
 

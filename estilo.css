@@ -5,6 +5,8 @@ body {
     animation-name: cambioColor;
     animation-duration:  10s;
     animation-iteration-count: infinite;
+
+    background-image: url(images/fondo\ nuevayol.png);
 }
 
 h1 {
