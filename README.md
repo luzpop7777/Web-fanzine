@@ -19,3 +19,7 @@
 - CHIKOS LO LOGRÉ, SE VE EL MAPA LETSGOOOO Y TE REFIERE A OTRA PÁGINA PARA VER COMO EN GOOGLE MAPS
 - El sonido ambiente sigue sin funcionar, eso que ya tiene su propia carpeta
 - Estoy entrando en crisis
+- Se me hizo un mega desorden
+- De la nada tengo todos los espacios repetidos???
+- Estoy confundida, hay muchos archivos y no sé qué hacer
+- Voy a adelantar el espacio3
