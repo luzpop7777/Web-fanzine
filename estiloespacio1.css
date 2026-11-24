@@ -114,3 +114,33 @@ p {
     100% { background-color: blue; }
 
 }
+
+.prev {
+    color: #000;
+
+}
+
+.next {
+    color: #000;
+}
+
+.musica-ambiente {
+    text-align: center;
+    margin: 30px 0;
+}
+
+.musica-ambiente button {
+    background-color: transparent;
+    color: white;
+    border: 1px solid #e87524;
+    padding: 13px 25px;
+    font-size: 12px;
+    letter-spacing: 2px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.musica-ambiente button:hover {
+    background-color: #e87524;
+}
+}

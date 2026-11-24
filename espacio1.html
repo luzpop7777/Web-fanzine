@@ -17,12 +17,31 @@
       <a href="espacio3.html">3</a> <a href="espacio4.html">4</a>
       <a href="espacio5.html">5</a> <a href="espacio6.html">6</a>
     </div>
-      </nav>
-      </header>
-    </nav>
-    <button id="btn-sonido" class="btn" aria-pressed="false" title="Sonido ambiente">🔊</button>
-    <audio id="ambiente" src="audio/mapa.mp3.mp3" loop></audio>
-  </header>
+    
+    <div class="musica-ambiente">
+    <audio id="ambiente" loop>
+        <source src="audio/mapa.mp3" type="audio/mpeg">
+    </audio>
+
+    <button onclick="reproducirMusica()" id="botonMusica">
+        ▶ REPRODUCIR AMBIENTE
+    </button>
+</div>
+
+<script>
+    function reproducirMusica() {
+        var audio = document.getElementById("ambiente");
+        var boton = document.getElementById("botonMusica");
+
+        if (audio.paused) {
+            audio.play();
+            boton.innerHTML = "Ⅱ PAUSAR AMBIENTE";
+        } else {
+            audio.pause();
+            boton.innerHTML = "▶ REPRODUCIR AMBIENTE";
+        }
+    }
+</script>
 
   <main>
     <section>

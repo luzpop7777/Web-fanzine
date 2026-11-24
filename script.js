@@ -1,10 +1,9 @@
-document.addEventListener("DOMContentLoaded", () 
-iniciarSonido();
+document.addEventListener("DOMContentLoaded", () => {
+  iniciarSonido();
 
-if (document.body.dataset.page === "mapa") {
+  if (document.body.dataset.page === "mapa") {
     iniciarMapa();
-}
-
+  }
 });
 
 function iniciarMapa() {
@@ -33,14 +32,24 @@ function iniciarSonido() {
   const audio = document.getElementById("ambiente");
   if (!boton || !audio) return;
 
-  boton.addEventListener("click", () => {
-    const sonando = boton.getAttribute("aria-pressed") === "true";
-    if (sonando) {
-      audio.pause();
+  boton.addEventListener("click", async () => {
+    if (audio.paused) {
+      try {
+        await audio.play();
+        boton.setAttribute("aria-pressed", "true");
+        boton.textContent = "🔊";
+        boton.title = "Desactivar sonido ambiente";
+      } catch (error) {
+        console.error("No se pudo reproducir el sonido ambiente.", error);
+        boton.setAttribute("aria-pressed", "false");
+        boton.textContent = "🔇";
+        boton.title = "Activar sonido ambiente";
+      }
     } else {
-      audio.play();
+      audio.pause();
+      boton.setAttribute("aria-pressed", "false");
+      boton.textContent = "🔇";
+      boton.title = "Activar sonido ambiente";
     }
-    boton.setAttribute("aria-pressed", String(!sonando));
-    boton.textContent = sonando ? "🔊" : "🔇";
   });
 }

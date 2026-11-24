@@ -45,3 +45,6 @@
 - Hice un montón de contenedores para todo. Cambié font, font size, borré una gran parte de algo que había hecho en index, pero ya medio me gusta
 - DIOS tuve que pedir ayudita para que el color cambiara como en flashes, que no transicionara de uno a otro. Además, ya le centré las fotos, ya le puse el texto respectivo debajo de cada uno. Veré si me gustan más de forma vertical y que toque scrollear
 - Sin culpa se me borró como todo del estiloespacio1.css y me dio como un ataque entonces pedí a copilot que por favor me lo recupere como estaba y cuando lo hizo le añadió muchas cosas diferentes, pero bueno, me gustó
+- NO FUNCIONA MI AUDIO LE RUEGO A COPILOT Y NADA QUE FUNCIONA DIOSSSS
+- Un ángel bajó del cielo y su nombre es Pedro y me ayudó con el audio y ahora funciona perfecto omg es una leyenda o sea dios me salvó la vida
+
