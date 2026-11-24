@@ -6,13 +6,16 @@ body {
     animation-duration:  10s;
     animation-iteration-count: infinite;
 
-    background-image: url(images/fondo\ nuevayol.png);
+    background-image: url("images/fondo nuevayol.png");
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 .contenedor-portada {
     position: relative;
     width: min(800px, 90%);
     min-height: 100px;
-    margin: 30px auto;
+    margin: 40px auto;
     box-sizing: border-box;
     display: flex;
     align-items: center;
@@ -23,9 +26,75 @@ body {
     border-radius: 12px;
 }
 
+.contenedor-portada2 {
+    position: relative;
+    width: min(700px, 90%);
+    min-height: 90px;
+    margin: 40px auto;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    background-color:  #F8B500;
+    border: 3px solid #000;
+    border-radius: 10px;
+}
+
+.contenedor-portadaindice {
+    position: relative;
+    width: min(400px, 90%);
+    min-height: 90px;
+    margin: 40px auto;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    background-color:  #F8B500;
+    border: 3px solid #000;
+    border-radius: 10px;
+}
+
+.contenedor-portada3 {
+    position: relative;
+    width: min(300px, 90%);
+    min-height: 90px;
+    margin: 40px auto;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    background-color:  #F8B500;
+    border: 3px solid #000;
+    border-radius: 10px;
+}
+
+.contenedor-portada4 {
+    position: relative;
+    width: min(400px, 90%);
+    min-height: 90px;
+    margin: 40px auto;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    background-color:  #F8B500;
+    border: 3px solid #000;
+    border-radius: 10px;
+}
+
 h1 {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 7em;
+    text-align: center;
+}
+
+h2 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 2em;
     text-align: center;
 }
 
@@ -34,6 +103,14 @@ p {
     line-height: 1.6;
 
 
+}
+
+p.lead {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1.5em;
+    line-height: 1.6;
+    font-weight: bold;
+    font-color: #7c7c7c;
 }
 
 .subparrafo {

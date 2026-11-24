@@ -41,3 +41,4 @@
 - Ya hice un css para espacio 1 y espacio 2, tienen lo de los colores cambiantes re camp
 - Pedí a copilot que me explicara cómo arreglar mi problema con los contenedores y es que no puse el div antes y después del h1. Con razón 
 - Voy a volver a modificar el tamaño de fuente y de contenedor del espacio1
+- Volví a trabajar en esto, procrastinando final boss
