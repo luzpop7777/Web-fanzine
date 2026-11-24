@@ -1,45 +1,105 @@
 body {
-   background-color: rgb(0, 39, 93);
-  
-    
+    background-color: blue;
     animation-name: cambioColor;
-    animation-duration:  10s;
+    animation-duration: 6s;
     animation-iteration-count: infinite;
-
+    animation-timing-function: steps(1, end);
 }
+
+main > section {
+    width: 100%;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 48px;
+    width: min(1000px, 94%);
+    margin: 40px auto;
+}
+
+.card {
+    width: 100%;
+    margin: 0;
+    text-align: center;
+}
+
+.card img {
+    display: block;
+    width: 100%;
+    max-height: 560px;
+    aspect-ratio: 16 / 9;
+    margin: 0 auto;
+    object-fit: cover;
+    object-position: center;
+}
+
+.card figcaption {
+    text-align: center;
+}
+
+.card h3 {
+    font-size: clamp(2rem, 4vw, 2.5rem);
+}
+
+.card p {
+    font-size: clamp(1.25rem, 2.5vw, 1.8rem);
+}
+
+main > section > p {
+    width: min(1000px, 90%);
+    margin: 28px auto;
+    text-align: center;
+}
+
 .contenedor-espacio1 {
     position: relative;
     width: min(800px, 90%);
-    min-height: 100px;
-    margin: 30px auto;
+    min-height: 120px;
+    margin: 40px auto;
+    padding: 16px;
     box-sizing: border-box;
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 50px;
-    background-color:  #F8B500;
+    background-color: #F8B500;
     border: 3px solid #000;
     border-radius: 12px;
 }
 
+.contenedor-espacioindice {
+    position: relative;
+    width: min(400px, 90%);
+    min-height: 90px;
+    margin: 40px auto;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    background-color:  #F8B500;
+    border: 3px solid #000;
+    border-radius: 10px;
+}
+
+
 h2 {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 4em;
+    font-size: clamp(2.2rem, 6vw, 4rem);
     text-align: center;
 }
 
-h3{
+h3 {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 2em;
     text-align: center;
 }
 
 p {
     font-family: 'Courier New', Courier, monospace;
-    font-size: 1.5em;
+    font-size: 1.5rem;
     line-height: 1.6;
     font-weight: bold;
-    font-color: #7c7c7c;
+    color: #222;
 }
 
 .subparrafo {
@@ -48,8 +108,9 @@ p {
 
 
 @keyframes cambioColor {
-    0% {background-color: rgb(248, 250, 215);}
-    50% {background-color: rgb(21, 2, 170);}
-    100% {background-color: red;}
+    0% { background-color: blue; }
+    33.333% { background-color: white; }
+    66.666% { background-color: red; }
+    100% { background-color: blue; }
 
 }

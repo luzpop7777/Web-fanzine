@@ -1,0 +1,18 @@
+
+
+
+
+.galeria-gifs {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 280px), 1fr));
+    align-items: center;
+    gap: 24px;
+    width: min(1100px, 94%);
+    margin: 40px auto;
+}
+
+.galeria-gifs img {
+    display: block;
+    width: 100%;
+    height: auto;
+}

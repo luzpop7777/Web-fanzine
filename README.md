@@ -42,3 +42,6 @@
 - Pedí a copilot que me explicara cómo arreglar mi problema con los contenedores y es que no puse el div antes y después del h1. Con razón 
 - Voy a volver a modificar el tamaño de fuente y de contenedor del espacio1
 - Volví a trabajar en esto, procrastinando final boss
+- Hice un montón de contenedores para todo. Cambié font, font size, borré una gran parte de algo que había hecho en index, pero ya medio me gusta
+- DIOS tuve que pedir ayudita para que el color cambiara como en flashes, que no transicionara de uno a otro. Además, ya le centré las fotos, ya le puse el texto respectivo debajo de cada uno. Veré si me gustan más de forma vertical y que toque scrollear
+- Sin culpa se me borró como todo del estiloespacio1.css y me dio como un ataque entonces pedí a copilot que por favor me lo recupere como estaba y cuando lo hizo le añadió muchas cosas diferentes, pero bueno, me gustó
