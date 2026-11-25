@@ -50,9 +50,27 @@ body {
     border-radius: 12px;
 }
 
+.embed {
+    display: block;
+    width: min(1200px, 94%);
+    height: clamp(480px, 70vh, 800px);
+    margin: 36px auto;
+    box-sizing: border-box;
+    border: 8px solid #F8B500;
+    border-radius: 20px;
+    background-color: #fff;
+    box-shadow: 0 14px 32px rgb(0 0 0 / 35%);
+}
+
 h2 {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 5em;
+    text-align: center;
+}
+
+h3 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 3em;
     text-align: center;
 }
 
@@ -67,6 +85,14 @@ p {
     font-size: 1.2em;
 }
 
+.prev {
+    color: #000;
+
+}
+
+.next {
+    color: #000;
+}
 
 @keyframes cambioColor {
     0% {background-color: rgb(248, 250, 215);}
