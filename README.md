@@ -51,3 +51,4 @@
 - Copy pasting lo que me ayudó Pedro en el index
 - Le puse Empire state of mind en el index porque obviooooo con ese botón que hizo Pedro
 - Soy un asquito pero usaré parte de la estructura de Polo. Me siento mal porquer no le pedí permiso para hacer esto. Mañana le diré
+- Acudí a una ia a que me ayude con un esqueleto para hacer un carrusel

@@ -1,1 +1,159 @@
+.contenedorseries {
+    position: relative;
+    width: min(600px, 90%);
+    min-height: 90px;
+    margin: 40px auto;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    background-color:  #F8B500;
+    border: 3px solid #000;
+    border-radius: 10px;
+}
+
+:root {
+    --color-bg: #F3F0E9;
+    --color-text: #171717;
+    --color-link: #8C2525;
+    --font-family: Arial, sans-serif;
+    --width-content: 1200px;
+}
+
+body {
+    background-color: #F3F0E9;
+    color: #171717;
+    font-family: Arial, sans-serif;
+}
+
+p {
+    font-size: 1.2em;
+    line-height: 1.6;
+    font-family: Times New Roman;
+}
+
 .contenedor-portada3 {
+    position: relative;
+    margin-left: 20%;
+    width: 850px;
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    background-color: #171717;
+}
+
+.informacion {
+    flex: 1;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    line-height: 1.7;
+    color: white;
+    margin-right: 40px;
+}
+
+.satc-espacio3 {
+position: relative;
+    width: 300px;
+    height: 400px;
+    flex-shrink: 0;
+}
+.satc,
+.satc-hover {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    top: 0;
+    left: 0;
+}
+
+.satc-hover {
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.contenedor-portada3:hover .satc-hover {
+    opacity: 1;
+}
+
+h1 {
+    font-family: Georgia, serif;
+    font-weight: normal;
+    letter-spacing: -2px;
+    font-size: 4em;
+    margin: 0;
+    text-align: center;
+}
+
+h2 {
+    font-family: Georgia, serif;
+    font-weight: normal;
+    letter-spacing: -1px;
+    font-size: 2em;
+    color: white;
+}
+
+h3 {
+    font-family: Georgia, serif;
+    font-weight: normal;
+    letter-spacing: -1px;
+    font-size: 1.5em;
+    color: #171717;
+    margin-left: 40%;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.carrusel-series {
+    position: relative;
+    width: min(850px, 92%);
+    height: 500px;
+    margin: 40px auto;
+    overflow: hidden;          
+    background-color: #171717;
+    border: 3px solid #000;
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+
+.carrusel-pista {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    transition: transform 0.4s ease;
+}
+
+.carrusel-pista img {
+    flex: 0 0 100%;
+    width: 100%;
+    height: 100%;             
+    object-fit: cover;
+}
+
+.carrusel-flecha {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 44px;
+    height: 44px;
+    border: none;
+    border-radius: 50%;
+    background-color: rgba(0, 0, 0, 0.55);
+    color: white;
+    font-size: 18px;
+    cursor: pointer;
+    z-index: 2;
+    transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+.carrusel-flecha:hover {
+    background-color: #F8B500;
+    color: #000;
+}
+
+.carrusel-izquierda { left: 12px; }
+.carrusel-derecha { right: 12px; }

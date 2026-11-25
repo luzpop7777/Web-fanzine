@@ -1,5 +1,6 @@
 document.addEventListener("DOMContentLoaded", () => {
   iniciarSonido();
+  iniciarCarrusel();
 
   if (document.body.dataset.page === "mapa") {
     iniciarMapa();
@@ -51,5 +52,31 @@ function iniciarSonido() {
       boton.textContent = "🔇";
       boton.title = "Activar sonido ambiente";
     }
+  });
+}
+
+function iniciarCarrusel() {
+  const pista = document.querySelector(".carrusel-pista");
+  const anterior = document.querySelector(".carrusel-izquierda");
+  const siguiente = document.querySelector(".carrusel-derecha");
+
+  if (!pista || !anterior || !siguiente) return;
+
+  const fotos = pista.querySelectorAll("img");
+  if (fotos.length < 2) return;
+
+  let actual = 0;
+  const mostrarFoto = () => {
+    pista.style.transform = `translateX(-${actual * 100}%)`;
+  };
+
+  siguiente.addEventListener("click", () => {
+    actual = (actual + 1) % fotos.length;
+    mostrarFoto();
+  });
+
+  anterior.addEventListener("click", () => {
+    actual = (actual - 1 + fotos.length) % fotos.length;
+    mostrarFoto();
   });
 }
