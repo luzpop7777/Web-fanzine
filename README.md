@@ -60,3 +60,12 @@
 - BUsqué fotos épicas de mamdani
 - Juro que no había puesto tanto detalle a los otros cosos
 - Mi presi lo más importante
+- omg se me super olvidó
+- Ya hice mi index de espacio5, el último será de GRACIAS
+- Espacio5 tiene eventos, puse unos 5 super épicos creo
+- Quiero que se vea como un scrolling?
+- He acudido a la ia para el diseño de página
+- realmernte me confunde el root pero me dice que lo haga, ya le pregunté qué es pero sigo sin entender
+- Ok está super epic
+- Super admito que eso en mayoría no soy yo, quería intentar algo diferente para el espacio 5
+- Era para que se viera chévere y bonito y diferente. Admito completamente que eso fue hecho con guianza de una inteligencia artificial, quería una cosa que se viera así de chévere como las vainas que le veo a las entregas de los otros. Sé que sueno pick me pero en serio lo digo
