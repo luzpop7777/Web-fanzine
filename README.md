@@ -52,3 +52,11 @@
 - Le puse Empire state of mind en el index porque obviooooo con ese botón que hizo Pedro
 - Soy un asquito pero usaré parte de la estructura de Polo. Me siento mal porquer no le pedí permiso para hacer esto. Mañana le diré
 - Acudí a una ia a que me ayude con un esqueleto para hacer un carrusel
+- No me funcionó, revisé yo y mi pa y no supimos pero copilot lo hizo de una
+- Ya las fotos del carrusel están bien
+- Ahora vuelvo a mamdanistan
+- micro arreglos al espacio3
+- Ahora Sí mi presi
+- BUsqué fotos épicas de mamdani
+- Juro que no había puesto tanto detalle a los otros cosos
+- Mi presi lo más importante
