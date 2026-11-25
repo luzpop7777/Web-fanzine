@@ -124,3 +124,24 @@ p.lead {
     100% {background-color: red;}
 
 }
+
+.musica-tema {
+    text-align: center;
+    margin: 30px 0;
+}
+
+.musica-tema button {
+    background-color: transparent;
+    color: white;
+    border: 1px solid #e87524;
+    padding: 13px 25px;
+    font-size: 12px;
+    letter-spacing: 2px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.musica-tema button:hover {
+    background-color: #e87524;
+}
+}

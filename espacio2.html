@@ -10,14 +10,20 @@
 <body data-page="mapa" data-next="espacio3.html">
   <header>
     <a class="logo" href="index.html">NYC FANZINE</a>
-    <nav><a href="index.html">Inicio</a><a href="espacio1.html">1</a><a href="espacio2.html" class="activo">2</a><a href="espacio3.html">3</a><a href="espacio4.html">4</a><a href="espacio5.html">5</a><a href="espacio6.html">6</a></nav>
-    <button id="btn-sonido" class="btn" aria-pressed="false" title="Sonido ambiente">🔊</button>
-    <audio id="ambiente" src="audio/mapa.mp3.mp3" loop></audio>
+    <div class="contenedor-espacio2indice">
+    <a href="index.html">Inicio</a>
+      <a href="espacio1.html" class="activo">1</a> <a href="espacio2.html">2</a>
+      <a href="espacio3.html">3</a> <a href="espacio4.html">4</a>
+      <a href="espacio5.html">5</a> <a href="espacio6.html">6</a>
+    </div>
+    
   </header>
 
   <main>
     <section>
+      <div class="contenedor-espacio2">
       <h2>Mapa de barrios</h2>
+      </div>
       <div id="mapa" class="mapa"></div>
       <h3>Mira a Nueva York en VIVO, mira reviews, lugares icónicos, explora libremente </h3>
       <iframe class="embed" title="Central Park en Google Maps" loading="lazy"

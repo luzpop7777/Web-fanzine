@@ -47,4 +47,6 @@
 - Sin culpa se me borró como todo del estiloespacio1.css y me dio como un ataque entonces pedí a copilot que por favor me lo recupere como estaba y cuando lo hizo le añadió muchas cosas diferentes, pero bueno, me gustó
 - NO FUNCIONA MI AUDIO LE RUEGO A COPILOT Y NADA QUE FUNCIONA DIOSSSS
 - Un ángel bajó del cielo y su nombre es Pedro y me ayudó con el audio y ahora funciona perfecto omg es una leyenda o sea dios me salvó la vida
-
+- He llegado a Sopó, seguiré avanzando
+- Copy pasting lo que me ayudó Pedro en el index
+- Le puse Empire state of mind en el index porque obviooooo con ese botón que hizo Pedro
