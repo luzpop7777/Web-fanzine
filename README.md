@@ -69,3 +69,9 @@
 - Ok está super epic
 - Super admito que eso en mayoría no soy yo, quería intentar algo diferente para el espacio 5
 - Era para que se viera chévere y bonito y diferente. Admito completamente que eso fue hecho con guianza de una inteligencia artificial, quería una cosa que se viera así de chévere como las vainas que le veo a las entregas de los otros. Sé que sueno pick me pero en serio lo digo
+- Rápidamente hice el sexto espacio que es de despedida y agradecimiento
+- A mimir que mañana son dos horas de viaje
+- Uso de la ia se dice en este readme por si quieren revisar 
+- Intenté acudir a otros lo más posible e intenté no usarla. En proyectos como estos es muy útil y fácil y rápido. Pido perdón
+- Me sentí re mal robando de un amiguito su esqueleto pero agh, uno desesperado hace lo que sea
+- Ahora sí, buenas noches
